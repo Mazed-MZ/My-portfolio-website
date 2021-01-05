@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+#Header-color{
+    color: orangered;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.top-part{
+    width: 40%;
+    padding: 5%;
+    float: left;
+}
+.top-part img{
+    width: 100%;
+}
