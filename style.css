@@ -18,7 +18,7 @@ h2{
     color: orangered;
 }
 .font-size{
-    font-size: 30px;
+    font-size: 50px;
 }
 p{
     font-family: 'Roboto', sans-serif;
@@ -78,4 +78,19 @@ a{
 .last-div img{
     width: 400px;
     height: 80%;
+}
+.chat-bar{
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    background-image: url("Group_33094_1.png");
+    background-size: 600px;
+    background-repeat: no-repeat;
+    padding: 2%;
+    margin: 5%;
+    margin-left: 28%;
+    margin-top: 20%;
+}
+.click-chat{
+    margin-left: 20%;
 }
